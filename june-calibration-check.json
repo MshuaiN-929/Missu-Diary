@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "dates": [
+    {
+      "date": "2026.6.3",
+      "pages": [
+        11,
+        12
+      ],
+      "mode": "manual",
+      "characters": 488
+    },
+    {
+      "date": "2026.6.10",
+      "pages": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "mode": "manual",
+      "characters": 1331
+    }
+  ],
+  "allSourceTextUnchanged": true,
+  "other25EntriesAndNormalizedLayoutsUnchanged": true,
+  "previousApprovedFirstEightUnchanged": true,
+  "newSourceSha256": "d49c17464fef2ad0b6fbf2527105704fd368ca0cbc3accfc047158e78174ab86",
+  "totalPages": 59,
+  "browserReport": "../qa/june-calibration/report.json"
+}

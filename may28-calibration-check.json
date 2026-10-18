@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "date": "2026.5.28",
+  "previousPages": [
+    9,
+    10
+  ],
+  "currentPages": [
+    9
+  ],
+  "pagesBefore": 61,
+  "pagesAfter": 60,
+  "sourceCharacters": 274,
+  "allSourceParagraphsAndStylesUnchanged": true,
+  "allOtherDiariesAndNormalizedPageLayoutsUnchanged": true,
+  "approvedFirstEightUnchanged": true,
+  "nativeWordPhysicalPages": [
+    12,
+    12
+  ],
+  "browserReport": "../qa/may28-calibration/report.json"
+}

@@ -1,0 +1,450 @@
+{
+  "status": "PASS",
+  "pagesBefore": 61,
+  "pagesAfter": 61,
+  "authoredParagraphsAndStylesUnchanged": true,
+  "approvedFirstEightLayoutUnchanged": true,
+  "manualLineBreaksInAutomaticDiariesPreserved": 606,
+  "tailBreaksPreservedWithoutExtraPage": 1,
+  "automaticBreaks": 153,
+  "wordOrPunctuationBoundaryAdjustments": 77,
+  "automaticColourGlyphs": {
+    "missu": 721,
+    "aside": 183,
+    "shushu": 144
+  },
+  "colourExamples": {
+    "missu": [
+      {
+        "date": "2026.5.28",
+        "page": 9,
+        "text": "人怎么能给自己舔毛呢！！！",
+        "reason": "连续感叹的情绪重点",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.6.10",
+        "page": 17,
+        "text": "小猫到底为什么这么能睡啊！！！",
+        "reason": "连续感叹的情绪重点",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.6.10",
+        "page": 18,
+        "text": "我现在连门把手都不一定",
+        "reason": "连续感叹的情绪重点",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.6.10",
+        "page": 18,
+        "text": "啊！！！",
+        "reason": "连续感叹的情绪重点",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.6.18",
+        "page": 20,
+        "text": "现在的店铺完全0进展啊！！！",
+        "reason": "连续感叹的情绪重点",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.6.18",
+        "page": 21,
+        "text": "这是啥啊！！！！！",
+        "reason": "连续感叹的情绪重点",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.7.5",
+        "page": 24,
+        "text": "“喵喵，喵喵喵喵",
+        "reason": "米酥实际发出的喵",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.7.5",
+        "page": 24,
+        "text": "喵喵喵喵",
+        "reason": "米酥的喵音/自称",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.7.5",
+        "page": 24,
+        "text": "“喵喵喵喵喵喵",
+        "reason": "米酥实际发出的喵",
+        "color": "#975956"
+      },
+      {
+        "date": "2026.7.5",
+        "page": 24,
+        "text": "喵喵喵喵喵喵",
+        "reason": "米酥的喵音/自称",
+        "color": "#975956"
+      }
+    ],
+    "aside": [
+      {
+        "date": "2026.6.18",
+        "page": 21,
+        "text": "（尚未）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.6.18",
+        "page": 22,
+        "text": "（鬼秘？什么诡密？是闺蜜吗！）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.7.24",
+        "page": 33,
+        "text": "（耶呼！）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.8.3",
+        "page": 38,
+        "text": "（其实我桌面也不算很乱）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.8.17",
+        "page": 43,
+        "text": "当然比那高啊",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.8.17",
+        "page": 43,
+        "text": "这不是废话吗",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.9.5",
+        "page": 46,
+        "text": "（划掉）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.9.5",
+        "page": 47,
+        "text": "（呜呜呜）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.9.5",
+        "page": 47,
+        "text": "（呜呜呜呜呜）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      },
+      {
+        "date": "2026.9.5",
+        "page": 47,
+        "text": "（呜呜呜呜呜呜呜呜呜！）",
+        "reason": "括号补充或自嘲",
+        "color": "#657F70"
+      }
+    ],
+    "shushu": [
+      {
+        "date": "2026.7.5",
+        "page": 24,
+        "text": "“你也困了吗？”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.7.15",
+        "page": 29,
+        "text": "“小猫咪不能吃哦。”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.8.10",
+        "page": 40,
+        "text": "“咪咪，你最近是不是胖了？”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.8.10",
+        "page": 40,
+        "text": "“没事！这是幸福的象征啊！”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.8.19",
+        "page": 45,
+        "text": "“咪咪，你今天怎么灰扑扑的？”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.8.19",
+        "page": 45,
+        "text": "“跑哪玩去了呀？”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.9.21",
+        "page": 49,
+        "text": "“咪咪？你怎么淋成这样了？”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.9.21",
+        "page": 49,
+        "text": "“你怎么总是在外面乱跑呀。”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.9.21",
+        "page": 49,
+        "text": "“下次下雨就别乱跑了。实在没地方去就来找我",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      },
+      {
+        "date": "2026.9.21",
+        "page": 49,
+        "text": "我给你留个位置。”",
+        "reason": "上下文中的梳梳实际对白",
+        "color": "#827399"
+      }
+    ]
+  },
+  "marks": [
+    {
+      "date": "2026.6.18",
+      "page": 21,
+      "text": "魔法蛋糕",
+      "kind": "highlight",
+      "start": 378,
+      "end": 382,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.7.24",
+      "page": 33,
+      "text": "有异能了！！！",
+      "kind": "highlight",
+      "start": 35,
+      "end": 42,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.7.24",
+      "page": 35,
+      "text": "随身空间",
+      "kind": "highlight",
+      "start": 765,
+      "end": 769,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.7.24",
+      "page": 36,
+      "text": "随身空间",
+      "kind": "highlight",
+      "start": 1211,
+      "end": 1215,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.9.5",
+      "page": 46,
+      "text": "魔法蛋糕",
+      "kind": "highlight",
+      "start": 125,
+      "end": 129,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.9.21",
+      "page": 50,
+      "text": "如果是梳梳呢？",
+      "kind": "highlight",
+      "start": 485,
+      "end": 492,
+      "color": "#DCE6ED",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.10.12",
+      "page": 58,
+      "text": "好紧张啊",
+      "kind": "underline",
+      "start": 250,
+      "end": 254,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    },
+    {
+      "date": "2026.10.16",
+      "page": 60,
+      "text": "好紧张啊",
+      "kind": "underline",
+      "start": 252,
+      "end": 256,
+      "color": "#F5E6AD",
+      "reason": "内容中的发现、决定或紧张/结尾锚点",
+      "origin": "automatic"
+    }
+  ],
+  "lineBreakExamples": [
+    {
+      "date": "2026.7.24",
+      "beforePage": 35,
+      "afterPage": 34,
+      "word": "鸡蛋花",
+      "before": "苍天你假糍粑！！！怎么只给我木薯啊！！我还要鸡↵蛋花、牛奶汁……\n",
+      "after": "鸡蛋花、牛奶汁……\n",
+      "paragraphId": "word-p-203",
+      "wordRange": [
+        623,
+        626
+      ]
+    },
+    {
+      "date": "2026.7.24",
+      "beforePage": 36,
+      "afterPage": 36,
+      "word": "木薯",
+      "before": "可以先“收进去”。然后脑子里想着它，又能拿出来。至少木↵薯可以，鸡蛋花可以，小鱼干也可以。我甚至试着把不锈钢",
+      "after": "木薯可以，鸡蛋花可以，小鱼干也可以。我甚至试着把",
+      "paragraphId": "word-p-203",
+      "wordRange": [
+        1004,
+        1006
+      ]
+    },
+    {
+      "date": "2026.8.3",
+      "beforePage": 38,
+      "afterPage": 38,
+      "word": "魔法世界",
+      "before": "哇哈哈哈哈哈哈哈哈哈哈哈哈！此乃真正的魔法世↵界！！！\n",
+      "after": "此乃真正的魔法世界！！！\n",
+      "paragraphId": "word-p-206",
+      "wordRange": [
+        141,
+        145
+      ]
+    },
+    {
+      "date": "2026.9.21",
+      "beforePage": 50,
+      "afterPage": 50,
+      "word": "蛋糕",
+      "before": "一起吃蛋糕的约定了吗！天天一起吃蛋糕！那最初选择开蛋↵糕店的心愿不就完成了吗！！！\n",
+      "after": "蛋糕店的心愿不就完成了吗！！！\n",
+      "paragraphId": "word-p-224",
+      "wordRange": [
+        646,
+        648
+      ]
+    },
+    {
+      "date": "2026.10.5",
+      "beforePage": 55,
+      "afterPage": 55,
+      "word": "小鱼干",
+      "before": "柜台要再擦一遍，货架重新整理，乱塞的东西收起来，小鱼↵干转移到隐蔽位置……\n",
+      "after": "小鱼干转移到隐蔽位置……\n",
+      "paragraphId": "word-p-229",
+      "wordRange": [
+        248,
+        251
+      ]
+    },
+    {
+      "date": "2026.10.16",
+      "beforePage": 60,
+      "afterPage": 60,
+      "word": "猫猫神",
+      "before": "路线记熟了，酵母仙女那边打过招呼了，店铺收拾好了，猫↵猫神也确认过了。\n",
+      "after": "猫猫神也确认过了。\n",
+      "paragraphId": "word-p-234",
+      "wordRange": [
+        93,
+        96
+      ]
+    }
+  ],
+  "browser": {
+    "status": "PASS",
+    "diaries": 27,
+    "pages": 61,
+    "content": true,
+    "approvedFirstEightPaperContentPixelMatch": true,
+    "pixelComparison": "same origin and scale; outer 8px corner shadows excluded",
+    "allDesktopSpreads": true,
+    "differentFrontBack": true,
+    "mobileSingle": true,
+    "responsive": [
+      {
+        "width": 1440,
+        "height": 1000,
+        "maxNormalizedCoordinateErrorPx": 0
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "maxNormalizedCoordinateErrorPx": 8.552471268785666e-05
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "maxNormalizedCoordinateErrorPx": 3.0517578125e-05
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "maxNormalizedCoordinateErrorPx": 6.803919052345009e-05
+      }
+    ],
+    "anchor": {
+      "id": "shushu-decision",
+      "date": "2026.9.21",
+      "paragraphId": "word-p-224",
+      "start": 480,
+      "end": 492,
+      "text": "但是……\n如果是梳梳呢？",
+      "lookupText": "但是……如果是梳梳呢？",
+      "pages": [
+        50
+      ]
+    },
+    "errors": []
+  }
+}

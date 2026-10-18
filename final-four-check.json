@@ -1,0 +1,104 @@
+{
+  "status": "PASS",
+  "newDates": [
+    {
+      "date": "2026.10.1",
+      "pages": [
+        49,
+        50
+      ],
+      "mode": "manual",
+      "characters": 632
+    },
+    {
+      "date": "2026.10.5",
+      "pages": [
+        51,
+        52
+      ],
+      "mode": "manual",
+      "characters": 711
+    },
+    {
+      "date": "2026.10.12",
+      "pages": [
+        53,
+        54
+      ],
+      "mode": "manual",
+      "characters": 522
+    },
+    {
+      "date": "2026.10.16",
+      "pages": [
+        55,
+        56
+      ],
+      "mode": "manual",
+      "characters": 431
+    }
+  ],
+  "sourceSha256": "33058889c32f66a12db46e4d5f10423088feee05d26a3661d08a8cbcaba98efa",
+  "newSourceTextAndFormatsExact": true,
+  "prior23EntriesAndLayoutsUnchanged": true,
+  "all27Manual": true,
+  "runtimeAndFontFilesUnchanged": true,
+  "sep21TextAnchorUnchanged": true,
+  "allDiaries": 27,
+  "allPages": 56,
+  "manualDiaries": 27,
+  "manualPages": 56,
+  "authorContentChanges": [
+    {
+      "date": "2026.10.5",
+      "kind": "delete",
+      "before": "！！",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.10.5",
+      "kind": "delete",
+      "before": "！！",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.10.5",
+      "kind": "delete",
+      "before": "了",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.10.5",
+      "kind": "insert",
+      "before": "",
+      "after": "（",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.10.5",
+      "kind": "insert",
+      "before": "",
+      "after": "）",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.10.5",
+      "kind": "insert",
+      "before": "",
+      "after": "合",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.10.5",
+      "kind": "delete",
+      "before": "合",
+      "after": "",
+      "origin": "latest user-authored Word"
+    }
+  ],
+  "manualReferenceCheck": "../qa/final-four/manual-reference-check.json",
+  "browserReport": "../qa/final-four/report.json"
+}

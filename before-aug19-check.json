@@ -1,0 +1,112 @@
+{
+  "status": "PASS",
+  "newDates": [
+    {
+      "date": "2026.7.24",
+      "pages": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "mode": "manual",
+      "characters": 1283
+    },
+    {
+      "date": "2026.8.3",
+      "pages": [
+        35,
+        36
+      ],
+      "mode": "manual",
+      "characters": 417
+    },
+    {
+      "date": "2026.8.10",
+      "pages": [
+        37
+      ],
+      "mode": "manual",
+      "characters": 182
+    },
+    {
+      "date": "2026.8.16",
+      "pages": [
+        38
+      ],
+      "mode": "manual",
+      "characters": 294
+    },
+    {
+      "date": "2026.8.17",
+      "pages": [
+        39,
+        40
+      ],
+      "mode": "manual",
+      "characters": 444
+    }
+  ],
+  "sourceSha256": "89d4a2ec6c59d16cd6052daa7bb9c1531294a4ecb2fc7e9152001e1e4211a496",
+  "newSourceTextAndFormatsExact": true,
+  "prior14EntriesAndLayoutsUnchanged": true,
+  "aug19AndLater8EntriesAndLayoutsUnchanged": true,
+  "allDiaries": 27,
+  "allPages": 58,
+  "manualDiaries": 19,
+  "manualPages": 40,
+  "authorContentChanges": [
+    {
+      "date": "2026.7.24",
+      "kind": "replace",
+      "before": "魔法",
+      "after": "异能",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.7.24",
+      "kind": "replace",
+      "before": "。",
+      "after": "！！！",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.8.16",
+      "kind": "delete",
+      "before": "哈哈哈哈",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.8.16",
+      "kind": "delete",
+      "before": "）（小字",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.8.17",
+      "kind": "delete",
+      "before": "我：",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.8.17",
+      "kind": "delete",
+      "before": "我：",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.8.17",
+      "kind": "delete",
+      "before": "比那高",
+      "after": "",
+      "origin": "latest user-authored Word"
+    }
+  ],
+  "manualReferenceCheck": "../qa/before-aug19/manual-reference-check.json",
+  "browserReport": "../qa/before-aug19/report.json"
+}

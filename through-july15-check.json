@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+  "importedDates": [
+    "2026.5.20",
+    "2026.5.21",
+    "2026.5.22",
+    "2026.5.23",
+    "2026.5.25",
+    "2026.5.28",
+    "2026.6.1",
+    "2026.6.3",
+    "2026.6.10",
+    "2026.6.18",
+    "2026.7.2",
+    "2026.7.5",
+    "2026.7.9",
+    "2026.7.15"
+  ],
+  "later13DatesUnchanged": true,
+  "manualDiaries": 14,
+  "manualPages": 29,
+  "allDiaries": 27,
+  "allPages": 58,
+  "latestSourceTextAndRunParagraphFormatsExact": true,
+  "originalApprovedPreviewFilesUnchanged": true,
+  "firstFiveRevisionAuthorized": {
+    "authorizedBy": "User: 同步前五篇，以最新 Word 的人工设计为准",
+    "originalSnapshot": "../snapshots/word-five-approved-2026-10-09.zip",
+    "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+    "dates": [
+      "2026.5.20",
+      "2026.5.21",
+      "2026.5.22",
+      "2026.5.23",
+      "2026.5.25"
+    ],
+    "byDate": {
+      "2026.5.20": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.20"
+      },
+      "2026.5.21": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.21"
+      },
+      "2026.5.22": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.22"
+      },
+      "2026.5.23": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.23"
+      },
+      "2026.5.25": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.25"
+      }
+    },
+    "updatedAppearanceDates": [
+      "2026.5.21",
+      "2026.5.25"
+    ]
+  },
+  "actualGlyphsChecked": 7329,
+  "maxXError": 0.014471347868735052,
+  "maxBaselineError": 0.014526644661614796,
+  "browserReport": "../qa/through-july15/report.json"
+}

@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "newDates": [
+    {
+      "date": "2026.8.19",
+      "pages": [
+        41,
+        42
+      ],
+      "mode": "manual",
+      "characters": 578
+    },
+    {
+      "date": "2026.9.5",
+      "pages": [
+        43,
+        44
+      ],
+      "mode": "manual",
+      "characters": 607
+    },
+    {
+      "date": "2026.9.20",
+      "pages": [
+        45
+      ],
+      "mode": "manual",
+      "characters": 268
+    }
+  ],
+  "sourceSha256": "a0ae07e841659e93595042ba085860319361e06b7f7ad78b43683e0194637346",
+  "newSourceTextAndFormatsExact": true,
+  "prior19EntriesAndLayoutsUnchanged": true,
+  "sep21AndLater5EntriesAndLayoutsUnchanged": true,
+  "runtimeAndFontFilesUnchanged": true,
+  "sep21TextAnchorUnchanged": true,
+  "allDiaries": 27,
+  "allPages": 58,
+  "manualDiaries": 22,
+  "manualPages": 45,
+  "authorContentChanges": [
+    {
+      "date": "2026.8.19",
+      "kind": "delete",
+      "before": "…",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.5",
+      "kind": "delete",
+      "before": "”",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.5",
+      "kind": "delete",
+      "before": "！！",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.5",
+      "kind": "delete",
+      "before": "（划掉）",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.5",
+      "kind": "delete",
+      "before": "一",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.20",
+      "kind": "delete",
+      "before": "也",
+      "after": "",
+      "origin": "latest user-authored Word"
+    }
+  ],
+  "manualReferenceCheck": "../qa/before-sep21/manual-reference-check.json",
+  "browserReport": "../qa/before-sep21/report.json"
+}

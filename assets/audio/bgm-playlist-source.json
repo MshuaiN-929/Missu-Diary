@@ -1,0 +1,30 @@
+{
+  "tracks": [
+    {
+      "id": "coffee",
+      "title": "don’t forget your coffee！ - aren park",
+      "artist": "aren park",
+      "originalFile": "M8000038Gxkz0TzjX0.mp3",
+      "resource": "assets/audio/dont-forget-your-coffee.mp3",
+      "bytes": 10522430,
+      "sha256": "c843e8e4041984b025000e0e886c9a46bf08bf747d7b597c042d5b2b3905f9fc"
+    },
+    {
+      "id": "nightfall",
+      "title": "nightfall - aren park",
+      "originalFile": "M800003AgeWi4D03Tp.mp3",
+      "resource": "assets/audio/diary-bgm.mp3",
+      "sha256": "80d7f2521af058a9668c7e6b735fa8ba731bb96a9ef320a0dbd3092f757ef7c6"
+    },
+    {
+      "id": "akogare",
+      "title": "憧れはそのままで",
+      "originalFile": "憧れはそのままで.mp3",
+      "resource": "assets/audio/akogare-wa-sonomamade.mp3",
+      "bytes": 6156195,
+      "sha256": "dbe803c577a999563e0ad28f4e8bf9a2590cee4abc82e66ed2bf8744a1916da4"
+    }
+  ],
+  "trimmed": false,
+  "playbackRate": 1
+}

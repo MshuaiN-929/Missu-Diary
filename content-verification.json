@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "sourceSha256": "01e675d7697d48cd49939d81df8ece0c88f57381b8160dc3401dec650ce30dcf",
+  "diaries": 27,
+  "sourceParagraphs": 232,
+  "structuredParagraphs": 609,
+  "unicodeCodepointsIncludingDatesSpacesAndBreaks": 14919,
+  "manualLineBreaks": 549,
+  "pages": 56,
+  "missing": 0,
+  "modified": 0,
+  "duplicate": 0,
+  "reordered": 0,
+  "approvedFiveUnchanged": false,
+  "approvedFiveRevision": {
+    "authorizedBy": "User: 同步前五篇，以最新 Word 的人工设计为准",
+    "originalSnapshot": "../snapshots/word-five-approved-2026-10-09.zip",
+    "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+    "dates": [
+      "2026.5.20",
+      "2026.5.21",
+      "2026.5.22",
+      "2026.5.23",
+      "2026.5.25"
+    ],
+    "byDate": {
+      "2026.5.20": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.20"
+      },
+      "2026.5.21": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.21"
+      },
+      "2026.5.22": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.22"
+      },
+      "2026.5.23": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.23"
+      },
+      "2026.5.25": {
+        "sourceSha256": "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+        "referenceFolder": "diary-full/reference/through-july15/2026.5.25"
+      }
+    },
+    "updatedAppearanceDates": [
+      "2026.5.21",
+      "2026.5.25"
+    ]
+  },
+  "originalApprovedPreviewFilesUnchanged": true,
+  "directFormatsCheckedOnGlyphs": 0,
+  "sourceVersions": [
+    "01e675d7697d48cd49939d81df8ece0c88f57381b8160dc3401dec650ce30dcf",
+    "4144222b07d5ed2615c6e5244339f2c7caf14806b12e3b65b1edfd537eaec1bd",
+    "89d4a2ec6c59d16cd6052daa7bb9c1531294a4ecb2fc7e9152001e1e4211a496",
+    "a0ae07e841659e93595042ba085860319361e06b7f7ad78b43683e0194637346",
+    "80abd665255ad5b3ca76639f14b2cb3ba74b02402184ff2c738f70e17b58cd9c",
+    "33058889c32f66a12db46e4d5f10423088feee05d26a3661d08a8cbcaba98efa"
+  ],
+  "anchor": {
+    "id": "shushu-decision",
+    "date": "2026.9.21",
+    "paragraphId": "word-2026-9-21-p-26",
+    "start": 29,
+    "end": 33,
+    "text": "但是……\n如果是梳梳呢？",
+    "lookupText": "但是……如果是梳梳呢？",
+    "ranges": [
+      {
+        "paragraphId": "word-2026-9-21-p-26",
+        "start": 29,
+        "end": 33
+      },
+      {
+        "paragraphId": "word-2026-9-21-p-27",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  "browserVisualCheck": "PASS: qa/final-four/report.json and manual-reference-check.json"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026.10.5",
+    "kind": "delete",
+    "before": "！！",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.10.5",
+    "kind": "delete",
+    "before": "！！",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.10.5",
+    "kind": "delete",
+    "before": "了",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.10.5",
+    "kind": "insert",
+    "before": "",
+    "after": "（",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.10.5",
+    "kind": "insert",
+    "before": "",
+    "after": "）",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.10.5",
+    "kind": "insert",
+    "before": "",
+    "after": "合",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.10.5",
+    "kind": "delete",
+    "before": "合",
+    "after": "",
+    "origin": "latest user-authored Word"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026.9.21",
+    "kind": "delete",
+    "before": "到（划掉）",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.21",
+    "kind": "delete",
+    "before": "……",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.21",
+    "kind": "insert",
+    "before": "",
+    "after": "、",
+    "origin": "latest user-authored Word"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "newDates": [
+    {
+      "date": "2026.9.21",
+      "pages": [
+        46,
+        47,
+        48
+      ],
+      "mode": "manual",
+      "characters": 906
+    }
+  ],
+  "sourceSha256": "80abd665255ad5b3ca76639f14b2cb3ba74b02402184ff2c738f70e17b58cd9c",
+  "newSourceTextAndFormatsExact": true,
+  "prior22EntriesAndLayoutsUnchanged": true,
+  "oct1AndLater4EntriesAndLayoutsUnchanged": true,
+  "runtimeAndFontFilesUnchangedExceptAnchorRangeSupport": true,
+  "sep21TextAnchorLookupPreserved": true,
+  "allDiaries": 27,
+  "allPages": 58,
+  "manualDiaries": 23,
+  "manualPages": 48,
+  "authorContentChanges": [
+    {
+      "date": "2026.9.21",
+      "kind": "delete",
+      "before": "到（划掉）",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.21",
+      "kind": "delete",
+      "before": "……",
+      "after": "",
+      "origin": "latest user-authored Word"
+    },
+    {
+      "date": "2026.9.21",
+      "kind": "insert",
+      "before": "",
+      "after": "、",
+      "origin": "latest user-authored Word"
+    }
+  ],
+  "manualReferenceCheck": "../qa/before-oct1/manual-reference-check.json",
+  "browserReport": "../qa/before-oct1/report.json"
+}

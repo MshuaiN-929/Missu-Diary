@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026.8.19",
+    "kind": "delete",
+    "before": "…",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.5",
+    "kind": "delete",
+    "before": "”",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.5",
+    "kind": "delete",
+    "before": "！！",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.5",
+    "kind": "delete",
+    "before": "（划掉）",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.5",
+    "kind": "delete",
+    "before": "一",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.9.20",
+    "kind": "delete",
+    "before": "也",
+    "after": "",
+    "origin": "latest user-authored Word"
+  }
+]

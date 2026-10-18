@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026.6.18",
+    "kind": "insert",
+    "before": "",
+    "after": "🥳",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.6.18",
+    "kind": "insert",
+    "before": "",
+    "after": "🥳",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.2",
+    "kind": "insert",
+    "before": "",
+    "after": "🌳",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.5",
+    "kind": "insert",
+    "before": "",
+    "after": "😴💤",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.9",
+    "kind": "replace",
+    "before": "。",
+    "after": "！",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.9",
+    "kind": "replace",
+    "before": "。",
+    "after": ".",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.15",
+    "kind": "delete",
+    "before": "哦",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.15",
+    "kind": "insert",
+    "before": "",
+    "after": "（每周自查！）",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.15",
+    "kind": "insert",
+    "before": "",
+    "after": "（还是宝刀未老身轻如燕的）",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.15",
+    "kind": "delete",
+    "before": "她：",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.15",
+    "kind": "delete",
+    "before": "我：",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.15",
+    "kind": "replace",
+    "before": "。",
+    "after": "！！！（嚯哈哈哈哈哈）",
+    "origin": "latest user-authored Word"
+  }
+]

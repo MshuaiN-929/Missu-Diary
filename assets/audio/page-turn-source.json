@@ -1,0 +1,17 @@
+{
+  "sampleRate": 48000,
+  "channels": 2,
+  "length": 26400,
+  "originalDuration": 1.224,
+  "startSeconds": 0.35,
+  "endSeconds": 0.9,
+  "fadeInSeconds": 0.004,
+  "fadeOutSeconds": 0.006,
+  "levelGain": 1,
+  "peak": 0.967987060546875,
+  "duration": 0.55,
+  "source": "page-sound-test/assets/page-turn.mp3",
+  "output": "page-sound-test/assets/page-turn-trimmed-v3.wav",
+  "originalHash": "600be61dd4591f09cdc1711fa8e07098fd3d948f619a7e096513ed6ab5aa82d8",
+  "sourceUnchanged": true
+}

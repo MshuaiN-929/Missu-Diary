@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026.7.24",
+    "kind": "replace",
+    "before": "魔法",
+    "after": "异能",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.7.24",
+    "kind": "replace",
+    "before": "。",
+    "after": "！！！",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.8.16",
+    "kind": "delete",
+    "before": "哈哈哈哈",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.8.16",
+    "kind": "delete",
+    "before": "）（小字",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.8.17",
+    "kind": "delete",
+    "before": "我：",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.8.17",
+    "kind": "delete",
+    "before": "我：",
+    "after": "",
+    "origin": "latest user-authored Word"
+  },
+  {
+    "date": "2026.8.17",
+    "kind": "delete",
+    "before": "比那高",
+    "after": "",
+    "origin": "latest user-authored Word"
+  }
+]
